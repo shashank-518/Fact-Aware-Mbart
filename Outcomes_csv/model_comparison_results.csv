@@ -1,0 +1,4 @@
+Model,EN→EN_ROUGE-L,HI→EN_ROUGE-L,Entity_Recall,Number_Preservation
+PEGASUS,0.291,0.002,0.003,0.024
+BART,0.306,0.073,0.017,0.111
+mT5,0.046,0.0,0.0,0.0

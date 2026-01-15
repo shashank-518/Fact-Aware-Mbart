@@ -1,0 +1,4 @@
+Setting,HI→EN_ROUGE-L,Entity_Recall,Number_Preservation
+Baseline,0.068,0.016,0.111
+Conservative,0.062,0.017,0.079
+Expressive,0.06,0.02,0.083
